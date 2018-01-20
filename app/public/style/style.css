@@ -1,0 +1,15 @@
+h2,h3,h4,a{
+	font-family: 'Risque', cursive;
+	color: lightgrey;
+}
+
+h1,p{
+	font-family: 'Risque', cursive;
+}
+#submit,#sigh{
+	background-color: black;
+}
+#jumbo{
+	background-color: darkred;
+}
+

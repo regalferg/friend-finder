@@ -1,0 +1,10 @@
+h3,h4{
+	font-family: 'Risque', cursive;
+}
+#match-img{
+	max-height:250px
+}
+
+body{
+	background: url("./gothic.jpg");
+}
